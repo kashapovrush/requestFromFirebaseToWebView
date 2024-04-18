@@ -1,5 +1,4 @@
-{
-  "offers": [
+
     {
       "id": 1,
       "title": "Die Antwoord",
@@ -24,5 +23,3 @@
         "value": 2390
       }
     }
-  ]
-}
